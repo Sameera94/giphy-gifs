@@ -35,7 +35,7 @@ const Header = (props: Props) => {
       <Heading>Giphies</Heading>
       <SearchBox {...props} />
     </HeaderWrapper>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header

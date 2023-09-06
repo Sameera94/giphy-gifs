@@ -4,11 +4,5 @@ declare namespace App {
     id: string;
     title: string;
     url: string;
-    // images: {
-    //   original: {
-    //     url: string;
-    //   }
-    // }
   }
-
 }

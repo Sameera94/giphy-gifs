@@ -21,8 +21,6 @@ const Header = styled.h4`
   align-items: center;
 `
 
-
-
 const Image = styled.img<ImageProps>`
   width: 300px;
   height: 300px;
